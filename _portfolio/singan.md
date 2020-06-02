@@ -1,6 +1,7 @@
 ---
 title: "SinGAN : Image denoising task using single image GAN (December 2019)"
-excerpt: "Paper extension of the [SinGAN](https://arxiv.org/abs/1905.01164) model developed by Google Research and Technion team, to perform image denoising tasks using a Generative Model learned from a Single Natural Image <br/><img src='/images/singan.jpg'>"
+excerpt: "Paper extension of the [SinGAN](https://arxiv.org/abs/1905.01164) model developed by Google Research and Technion team, to perform image denoising tasks using a Generative Model learned from a Single Natural Image.
+ <br/><img src='/images/singan.jpg'>"
 collection: portfolio
 ---
 
