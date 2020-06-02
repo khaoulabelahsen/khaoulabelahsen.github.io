@@ -1,6 +1,6 @@
 ---
-title: "SinGAN : Image denoising task using single image GAN (December 2019)"
-excerpt: "Paper extension of the SinGAN model developed by Google Research and Technion team, to perform image denoising tasks using a Generative Model learned from a Single Natural Image "
+title: "French Web Domain Classification - AlteGrad  (Mar 2020)"
+excerpt: "The goal of this challenge is to solve a web domain classification problem by building the highest performing model using textual and graph data on manually annotated french websites <br/><img src='/images/altegrad.jpg'>"
 collection: portfolio
 ---
 
