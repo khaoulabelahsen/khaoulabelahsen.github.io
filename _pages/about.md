@@ -10,7 +10,7 @@ redirect_from:
 
 # About Me
 
-I am a graduate student at [ENSTA Paris](https://www.ensta-paristech.fr/fr) and [ENS Paris-Saclay](https://ens-paris-saclay.fr/), pursuing the MVA Master. 
+I am a graduate student from Paris, France.
 
 I obtained a BS in Engineering from [ENSTA Paris](https://www.ensta-paristech.fr/fr) and currently working towards a MS in Applied Mathematics from [ENSTA Paris](https://www.ensta-paristech.fr/fr) and an MS in [Mathematics, Vision and Learning](https://www.master-mva.com/) from [ENS Paris-Saclay](https://ens-paris-saclay.fr/).
 
