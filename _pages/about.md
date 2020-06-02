@@ -10,7 +10,13 @@ redirect_from:
 
 # About Me
 
-I'm a graduate student at ENSTA Paris and ENS Paris-Saclay, pursuing the MVA Master. I obtained a bachelor of Science in Engineering from ENSTA Paris and currently working towards a Master of Science in Applied Mathematics from ENSTA Paris and the MVA Master of Science in Machine Learning and Computer Vision from ENS Paris-Saclay.I was a research intern at McGill University and The Lady Davis Institute researching Machine Learning applications to Epidemiology. Starting Mid-June 2020, I will be joining the Data Science team at <a href="https://kayrros.com"> Kayrros.</a> for a 6 months internship as a Junior Data Scientist. 
+I am a graduate student at [ENSTA Paris](https://www.ensta-paristech.fr/fr) and [ENS Paris-Saclay](https://ens-paris-saclay.fr/), pursuing the MVA Master. 
+
+I obtained a BS in Engineering from [ENSTA Paris](https://www.ensta-paristech.fr/fr) and currently working towards a MS in Applied Mathematics from [ENSTA Paris](https://www.ensta-paristech.fr/fr) and an MS in [Mathematics, Vision and Learning](https://www.master-mva.com/) from [ENS Paris-Saclay](https://ens-paris-saclay.fr/).
+
+I was a research intern with Dr Celia MT Greenwood  in the [Department of Epidemiology, Biostatistics and Occupational Health](https://www.mcgill.ca/epi-biostat-occh/) at Mcgill University and [The Lady Davis Institute](http://www.ladydavis.ca/en/celiagreenwood) researching High-Dimensional non linear interactions between gene and environment data and their effect on the development of Child Obesity. 
+
+Starting Mid-June 2020, I will be joining the Data Science team at <a href="https://kayrros.com"> Kayrros.</a> for a 6 months internship as a Junior Data Scientist. 
 
 # Projects 
 
