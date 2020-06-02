@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 2"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
+title: "SinGAN : Image denoising task using single image GAN (December 2019)"
+excerpt: "Paper extension of the <a href="https://arxiv.org/abs/1905.01164"> SinGAN</a> model developed by Google Research and Technion team, to perform image denoising tasks using a Generative Model learned from a Single Natural Image <br/><img src='/images/singan.jpg'>"
 collection: portfolio
 ---
 
