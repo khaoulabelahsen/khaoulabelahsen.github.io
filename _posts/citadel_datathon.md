@@ -3,12 +3,12 @@ title: 'My first datathon experience - Citadel and Citadel Securities'
 date: 2020-06-01
 permalink: /posts/2020/06/london_datathon/
 tags:
-  - competition
-  - data science
+  - Competition
+  - Data Science
   - Citadel 
 ---
 
-Comin up
+Coming soon
 
 Headings are cool
 ======
